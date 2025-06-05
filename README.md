@@ -1,4 +1,4 @@
-# OntarioTech University Qiskit Workshop February 2025
+# OntarioTech University Qiskit Workshop June 2025
 
 ## Installing Qiskit
 
